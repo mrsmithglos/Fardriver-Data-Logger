@@ -1,0 +1,5 @@
+{
+  "name": "ESP32 Fardriver BLE Logger & Code Generator",
+  "description": "An application to generate Arduino-compatible C++ code for an ESP32 to connect to a Fardriver controller via Bluetooth Low Energy (BLE) and log data to an SD card.",
+  "requestFramePermissions": []
+}
